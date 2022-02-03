@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Melisa</h1>
-<h3 align="center">Soy una estudiante de ingenieria en sistemas apasionada por aprender sobre tecnología pero en especial en desarrollo.</h3>
+<h3 align="center">Soy una estudiante de ingeniería de sistemas, apasionada por aprender sobre tecnología pero en especial en desarrollo.</h3>
 
 - 🌱 Estoy aprendiendo más de **JavaScript, CSS y HTML**
 
